@@ -35,7 +35,7 @@ Finally, to make use of the library, you just need to include the correct header
 file from the library in the source file where you want to make use of the library.
 Continuing our example, in `main/us-test.c`, we may add the following lines:
 
-```
+```C
 /* Component includes */
 #include "esp32-uart-us-100.h"
 ```

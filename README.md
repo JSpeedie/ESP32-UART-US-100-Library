@@ -69,12 +69,12 @@ idf.py -p /dev/ttyUSB0 flash monitor
 
 ### Hardware connections
 
-<!-- Below is the schematic I used for the example program. -->
+Below is the schematic I used for the example program.
 
-<!-- <p align="center"> -->
-<!--   <img src="https://raw.githubusercontent.com/wiki/JSpeedie/ESP32-UART-US-100-Library/images/ESP32-I2C-HD44780-PCF8574.png" width="100%"/> -->
-<!-- </p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wiki/JSpeedie/ESP32-UART-US-100-Library/images/ESP32-UART-US-100.png" width="60%"/>
+</p>
 
-<!-- Of course you will also need to connect a micro usb to usb cable between the -->
-<!-- ESP32 and your development machine in order to flash the program to the ESP32 -->
-<!-- and to give it power. -->
+Of course you will also need to connect a micro usb to usb cable between the
+ESP32 and your development machine in order to flash the program to the ESP32
+and to give it power.
